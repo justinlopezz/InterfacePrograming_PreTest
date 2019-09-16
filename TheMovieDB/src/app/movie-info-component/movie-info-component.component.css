@@ -1,0 +1,15 @@
+.MovieInfo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    height: auto;
+    width: auto;
+    margin-left: 200px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+    float: left;
+}
+
+.Thumbnail {
+    float: left;
+    margin-left: 400px;
+}
